@@ -24,3 +24,13 @@ collections:
               - {label: "Prix", name: "prix", widget: "string"}
               - {label: "Description", name: "description", widget: "text"}
               - {label: "Photo", name: "image", widget: "image"}
+
+  - name: "galerie"
+    label: "Galerie d'images"
+    folder: "data/galerie"
+    extension: "json"
+    create: true
+    fields:
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Légende", name: "legende", widget: "string", required: false}
+      - {label: "Texte alternatif", name: "alt", widget: "string", required: false}
