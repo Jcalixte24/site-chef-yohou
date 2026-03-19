@@ -1,8 +1,9 @@
 {
   "galerie": [
     {
+      "titre": "test",
       "image": "/images/568692_d208ed65917a482280a345ef2a14eba6~mv2.jpg",
-      "titre": "test"
+      "categorie": "signatures"
     }
   ]
 }
