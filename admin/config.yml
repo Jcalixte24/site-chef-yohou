@@ -1,36 +1,35 @@
 backend:
   name: git-gateway
-  branch: main
+  branch: main # Changez en 'master' si votre branche principale s'appelle master
 
 media_folder: "images"
 public_folder: "/images"
 
 collections:
-  - name: "menu"
-    label: "Menu du Restaurant"
-    folder: "data"
-    extension: "json"
-    create: false
+  - name: "contenu_site"
+    label: "Contenu du site"
     files:
-      - file: "data/menu.json"
-        label: "Les Plats"
-        name: "plats"
+      - label: "Mes Services"
+        name: "services"
+        file: "data/menu.json"
         fields:
-          - label: "Plats"
+          # Le "name" ici DOIT être "plats" pour correspondre à votre code HTML
+          - label: "Liste des Services"
             name: "plats"
             widget: "list"
             fields:
-              - {label: "Nom du plat", name: "nom", widget: "string"}
-              - {label: "Prix", name: "prix", widget: "string"}
-              - {label: "Description", name: "description", widget: "text"}
-              - {label: "Photo", name: "image", widget: "image"}
-
-  - name: "galerie"
-    label: "Galerie d'images"
-    folder: "data/galerie"
-    extension: "json"
-    create: true
-    fields:
-      - {label: "Image", name: "image", widget: "image"}
-      - {label: "Légende", name: "legende", widget: "string", required: false}
-      - {label: "Texte alternatif", name: "alt", widget: "string", required: false}
+              - {label: "Nom du service", name: "nom", widget: "string"}
+              - {label: "Prix et détails", name: "prix", widget: "string"}
+              - {label: "Image", name: "image", widget: "image"}
+              
+      - label: "Mes Créations"
+        name: "creations"
+        file: "data/creations.json"
+        fields:
+          - label: "Galerie d'images"
+            name: "galerie"
+            widget: "list"
+            fields:
+              - {label: "Titre", name: "titre", widget: "string"}
+              - {label: "Image", name: "image", widget: "image"}
+              - {label: "Catégorie", name: "categorie", widget: "string", required: false}
