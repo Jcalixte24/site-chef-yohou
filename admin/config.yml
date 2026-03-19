@@ -22,14 +22,18 @@ collections:
               - {label: "Prix et détails", name: "prix", widget: "string"}
               - {label: "Image", name: "image", widget: "image"}
               
-      - label: "Mes Créations"
+      - label: "Mes Créations "
         name: "creations"
         file: "data/creations.json"
         fields:
-          - label: "Galerie d'images"
+          - label: "Galerie"
             name: "galerie"
             widget: "list"
             fields:
-              - {label: "Titre", name: "titre", widget: "string"}
+              - {label: "Nom du plat", name: "titre", widget: "string"}
               - {label: "Image", name: "image", widget: "image"}
-              - {label: "Catégorie", name: "categorie", widget: "string", required: false}
+
+              - label: "Catégorie (Onglet)"
+                name: "categorie"
+                widget: "select"
+                options: ["signatures", "entrees", "apero", "desserts"]
