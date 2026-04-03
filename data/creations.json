@@ -4,6 +4,81 @@
       "titre": "Alloco",
       "image": "/images/plat1.jpeg",
       "categorie": "apero"
+    },
+    {
+      "image": "/images/plat2.jpeg",
+      "titre": "sig1",
+      "categorie": "signatures"
+    },
+    {
+      "titre": "sig 2",
+      "image": "/images/whatsapp-image-2026-03-29-at-11.40.10-2-.jpeg",
+      "categorie": "signatures"
+    },
+    {
+      "image": "/images/play4.jpeg",
+      "titre": "planche 1",
+      "categorie": "apero"
+    },
+    {
+      "image": "/images/plat5.jpeg",
+      "titre": "riz 1",
+      "categorie": "apero"
+    },
+    {
+      "image": "/images/whatsapp-image-2026-03-29-at-11.40.11-1-.jpeg",
+      "categorie": "apero",
+      "titre": "foutou"
+    },
+    {
+      "image": "/images/whatsapp-image-2026-03-29-at-11.40.11-2-.jpeg",
+      "titre": "foutou 2",
+      "categorie": "apero"
+    },
+    {
+      "image": "/images/whatsapp-image-2026-03-29-at-11.40.11-3-.jpeg",
+      "titre": "garba",
+      "categorie": "apero"
+    },
+    {
+      "image": "/images/whatsapp-image-2026-03-29-at-11.40.11-4-.jpeg",
+      "titre": "douceur 1",
+      "categorie": "desserts"
+    },
+    {
+      "image": "/images/whatsapp-image-2026-03-29-at-11.40.11-5-.jpeg",
+      "titre": "entree1",
+      "categorie": "entrees"
+    },
+    {
+      "titre": "puree",
+      "image": "/images/whatsapp-image-2026-03-29-at-11.40.11.jpeg",
+      "categorie": "apero"
+    },
+    {
+      "image": "/images/whatsapp-image-2026-03-29-at-11.40.12-1-.jpeg",
+      "titre": "douceur 2",
+      "categorie": "desserts"
+    },
+    {
+      "image": "/images/whatsapp-image-2026-03-29-at-11.40.12-2-.jpeg",
+      "titre": "entree3",
+      "categorie": "entrees"
+    },
+    {
+      "image": "/images/whatsapp-image-2026-03-29-at-11.40.12-3-.jpeg",
+      "titre": "planche ",
+      "categorie": "apero"
+    },
+    {
+      "image": "/images/whatsapp-image-2026-03-29-at-11.40.12-4-.jpeg",
+      "titre": "entree 6",
+      "categorie": "entrees"
+    },
+    {
+      "image": "/images/whatsapp-image-2026-03-29-at-11.40.12-5-.jpeg",
+      "titre": "foi",
+      "categorie": "signatures"
     }
   ]
 }
