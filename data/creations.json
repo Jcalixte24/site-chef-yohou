@@ -6,11 +6,6 @@
       "categorie": "apero"
     },
     {
-      "image": "/images/whatsapp-image-2026-03-29-at-11.40.10-2-.jpeg",
-      "titre": "sig1",
-      "categorie": "signatures"
-    },
-    {
       "titre": "sig 2",
       "image": "/images/whatsapp-image-2026-03-29-at-11.40.10-2-.jpeg",
       "categorie": "signatures"
@@ -79,6 +74,81 @@
       "image": "/images/whatsapp-image-2026-03-29-at-11.40.12-5-.jpeg",
       "titre": "foi",
       "categorie": "signatures"
+    },
+    {
+      "image": "/images/whatsapp-image-2026-03-29-at-11.40.12.jpeg",
+      "titre": "douceur 2",
+      "categorie": "desserts"
+    },
+    {
+      "image": "/images/whatsapp-image-2026-03-29-at-11.40.16.jpeg",
+      "titre": "signature",
+      "categorie": "signatures"
+    },
+    {
+      "image": "/images/whatsapp-image-2026-03-29-at-11.40.16-1-.jpeg",
+      "titre": "Alloco revisité",
+      "categorie": "signatures"
+    },
+    {
+      "image": "/images/whatsapp-image-2026-03-29-at-11.40.15.jpeg",
+      "titre": "Plat de pâte",
+      "categorie": "apero"
+    },
+    {
+      "image": "/images/whatsapp-image-2026-03-29-at-11.40.15-4-.jpeg",
+      "titre": "soupe",
+      "categorie": "entrees"
+    },
+    {
+      "image": "/images/whatsapp-image-2026-03-29-at-11.40.15-3-.jpeg",
+      "titre": "planche jambon",
+      "categorie": "apero"
+    },
+    {
+      "image": "/images/whatsapp-image-2026-03-29-at-11.40.15-2-.jpeg",
+      "titre": "salade",
+      "categorie": "entrees"
+    },
+    {
+      "image": "/images/whatsapp-image-2026-03-29-at-11.40.15-1-.jpeg",
+      "titre": "entrees planche",
+      "categorie": "entrees"
+    },
+    {
+      "image": "/images/whatsapp-image-2026-03-29-at-11.40.14.jpeg",
+      "titre": "douceur",
+      "categorie": "desserts"
+    },
+    {
+      "image": "/images/whatsapp-image-2026-03-29-at-11.40.14-7-.jpeg",
+      "titre": "riz signature",
+      "categorie": "signatures"
+    },
+    {
+      "image": "/images/whatsapp-image-2026-03-29-at-11.40.14-6-.jpeg",
+      "categorie": "desserts",
+      "titre": "dessert"
+    },
+    {
+      "image": "/images/whatsapp-image-2026-03-29-at-11.40.14-5-.jpeg",
+      "titre": "signature",
+      "categorie": "signatures"
+    },
+    {
+      "image": "/images/whatsapp-image-2026-03-29-at-11.40.14-4-.jpeg",
+      "titre": "dessert",
+      "categorie": "desserts"
+    },
+    {
+      "image": "/images/whatsapp-image-2026-03-29-at-11.40.14-3-.jpeg",
+      "titre": "entree",
+      "categorie": "entrees"
+    },
+    {
+      "image": "/images/whatsapp-image-2026-03-29-at-11.40.14-2-.jpeg",
+      "titre": "dessert",
+      "categorie": "desserts"
     }
   ]
 }
