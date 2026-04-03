@@ -1,3 +1,9 @@
 {
-  "galerie": []
+  "galerie": [
+    {
+      "titre": "Alloco",
+      "image": "/images/plat1.jpeg",
+      "categorie": "apero"
+    }
+  ]
 }
